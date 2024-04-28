@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<link rel="stylesheet" href="src/output.css">
+    <title>Contact Me</title>
+    <style>
+        .swiper {
+    width: 600px; /* Set your desired width */
+    height: 300px; /* Set your desired height */
+}
+
+    </style>
+</head>
+<body>
+<!-- Slider main container -->
+<div class="w-full flex absolute bg-red-400 items-center justify-between">
+    <h3>Works</h3>
+    <div class="w-24 absolute top-2 right-5 flex items-center justify-evenly bg-slate-700">
+        <div class="swiper-button-prev text-yellow-400 text-sm"></div>
+        <div class="swiper-button-next"></div>
+    </div>
+</div>
+<div class="swiper">
+    <!-- Additional required wrapper -->
+    <div class="swiper-wrapper">
+        <!-- Slides -->
+        <div class="swiper-slide bg-orange-400">Slide 1</div>
+        <div class="swiper-slide bg-slate-600">Slide 2</div>
+        <div class="swiper-slide bg-yellow-300">Slide 3</div>
+        <!-- Add more slides as needed -->
+    </div>
+
+    <!-- If you need navigation buttons -->
+
+
+    <!-- If you need a scrollbar -->
+    <div class="swiper-scrollbar"></div>
+</div>
+
+  <script>
+    const swiper = new Swiper('.swiper', {
+    // Optional parameters
+    direction: 'horizontal', // Change to 'vertical' if needed
+    loop: true, // Enable looping
+
+    // Navigation arrows
+    navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+    }
+});
+
+  </script>
+</body>
+</html>

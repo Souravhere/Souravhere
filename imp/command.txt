@@ -1,0 +1,15 @@
+to push all code
+
+echo "# Souravhere" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Souravhere/Souravhere.git
+git push -u origin main
+
+to update the github
+
+git remote add origin https://github.com/Souravhere/Souravhere.git
+git branch -M main
+git push -u origin main
