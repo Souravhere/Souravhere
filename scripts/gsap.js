@@ -51,7 +51,13 @@ headertl.from('.word',{
     stagger:0.1,
     transform:" rotate(6deg)",
     ease: "expoScale(0.5,7,none)",
-
 })
+headertl.from('#headerimg',{
+    opacity:0,
+    duration:0.2,
+    stagger:0.1,
+    transform:" rotate(6deg)"
+})
+
 }
 headerani()
