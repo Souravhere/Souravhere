@@ -12,3 +12,6 @@ body::-webkit-scrollbar{
     background-color: transparent;
     color: greenyellow;
 }
+#pani, #headan, #navtext {
+    font-kerning: none;
+}
