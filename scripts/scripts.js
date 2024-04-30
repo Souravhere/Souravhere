@@ -20,4 +20,4 @@ setInterval(() => {
 }, 1000);
 
 // this script to add the version
-const version = document.querySelector("#version").innerHTML = `V0.1`
+const version = document.querySelector("#version").innerHTML = `V0.2`
