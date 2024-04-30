@@ -1,36 +1,35 @@
-// Array of five words
-const wordsArray = ["Hello", "नमस्ते", "ہیلو", "Hola", "Bonjour", "Hallo", "Ciao", "Привет", "你好", "مرحبا"];
+// // Array of five words
+// const wordsArray = ["Hello", "नमस्ते", "ہیلو", "Hola", "Bonjour", "Hallo", "Ciao", "Привет", "你好", "مرحبا"];
 
-// Function to display words one by one with a gap of 1 second
-function displayWords() {
-  let index = 0;
-  const intervalId = setInterval(() => {
-    if (index < wordsArray.length) {
-      document.getElementById('container').textContent = wordsArray[index];
-      index++;
-    } else {
-      clearInterval(intervalId);
-      loader()
-      headerani()
-      navani()
-    }
-  }, 170); // 1000 milliseconds = 1 second
-}
+// // Function to display words one by one with a gap of 1 second
+// function displayWords() {
+//   let index = 0;
+//   const intervalId = setInterval(() => {
+//     if (index < wordsArray.length) {
+//       document.getElementById('container').textContent = wordsArray[index];
+//       index++;
+//     } else {
+//       clearInterval(intervalId);
+//       loader()
+      
+//     }
+//   }, 170); // 1000 milliseconds = 1 second
+// }
 
-// Call the function to start displaying words
-displayWords()
-function loader(){
-  gsap.to('#loader',{
-  y:"-100%",
-  height:"50%",
-  // delay:5,
-  duration:1,
-  borderRadius:"50%",
-  opacity:0,
-  scale:1.2,
-  ease: "expoScale(0.5,7,none)",
-})
-}
+// // Call the function to start displaying words
+// displayWords()
+// function loader(){
+//   gsap.to('#loader',{
+//   y:"-100%",
+//   height:"50%",
+//   // delay:5,
+//   duration:1,
+//   borderRadius:"50%",
+//   opacity:0,
+//   scale:1.2,
+//   ease: "expoScale(0.5,7,none)",
+// })
+// }
 
 // this timelien for the nav
 function navani(){
@@ -130,3 +129,5 @@ abouttl.from('#aboutnavli li',{
 })
 }
 aboutme()
+headerani()
+navani()
