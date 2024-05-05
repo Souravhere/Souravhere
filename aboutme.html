@@ -37,6 +37,11 @@
     <link rel="stylesheet" href="customstyle/addedstyle.css">
 </head>
 <body class="bg-[#1b1e1f]">
+        <!-- Loader start -->
+        <div id="loader" class="fixed w-full h-screen bg-black flex items-center justify-center z-50">
+            <h1 id="container" class="text-center font-semibold text-3xl text-white"></h1>
+        </div>
+        <!-- Loader end -->
      <!-- Navbar starte here -->
      <nav class="flex text-white items-center justify-between p-5">
         <div class="left flex items-center  overflow-hidden h-[30px]">
@@ -181,6 +186,39 @@
     <script src="scripts/gsappage.js"></script>
     <script src="scripts/gsap.js"></script>
     <script src="scripts/scripts.js"></script>
+    <script>
+        const wordsArray = ["About","Me"];
+
+// Function to display words one by one with a gap of 1 second
+function displayWords() {
+  let index = 0;
+  const intervalId = setInterval(() => {
+    if (index < wordsArray.length) {
+      document.getElementById('container').textContent = wordsArray[index];
+      index++;
+    } else {
+      clearInterval(intervalId);
+      loader()
+    }
+  }, 300); // 1000 milliseconds = 1 second
+}
+
+
+// Call the function to start displaying words
+displayWords()
+function loader(){
+  gsap.to('#loader',{
+  y:"-100%",
+  height:"50%",
+  // delay:5,
+  duration:1,
+  borderRadius:"50%",
+  opacity:0,
+  scale:1.2,
+  ease: "sine.out",
+})
+}
+    </script>
     <!-- scripts links end -->
 </body>
 </html>

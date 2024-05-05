@@ -345,6 +345,42 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" integrity="sha512-onMTRKJBKz8M1TnqqDuGBlowlH0ohFzMXYRNebz+yOcc5TQr/zAKsthzhuv0hiyUKEiQEQXEynnXCvNTOk50dg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="scripts/gsap.js"></script>
     <script src="scripts/scripts.js"></script>
+    <script>
+        // Array of five words
+const wordsArray = ["Hello", "नमस्ते", "ہیلو", "Hola", "Bonjour", "Hallo", "Ciao", "Привет", "你好", "مرحبا"];
+
+// Function to display words one by one with a gap of 1 second
+function displayWords() {
+  let index = 0;
+  const intervalId = setInterval(() => {
+    if (index < wordsArray.length) {
+      document.getElementById('container').textContent = wordsArray[index];
+      index++;
+    } else {
+      clearInterval(intervalId);
+      loader()
+      headerani()
+      navani()
+    }
+  }, 170); // 1000 milliseconds = 1 second
+}
+
+
+// Call the function to start displaying words
+displayWords()
+function loader(){
+  gsap.to('#loader',{
+  y:"-100%",
+  height:"50%",
+  // delay:5,
+  duration:1,
+  borderRadius:"50%",
+  opacity:0,
+  scale:1.2,
+  ease: "sine.out",
+})
+}
+    </script>
     <!-- scripts links end -->
 </body>
 </html>

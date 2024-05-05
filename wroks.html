@@ -37,6 +37,11 @@
     <link rel="stylesheet" href="./customstyle/addedstyle.css">
 </head>
 <body class="bg-[#1b1e1f]">
+        <!-- Loader start -->
+        <div id="loader" class="fixed w-full h-screen bg-black flex items-center justify-center z-50">
+            <h1 id="container" class="text-center font-semibold text-3xl text-white"></h1>
+        </div>
+        <!-- Loader end -->
         <!-- Navbar starte here -->
         <nav class="flex text-white items-center justify-between p-5">
             <div class="left flex items-center  overflow-hidden h-[30px]">
@@ -84,8 +89,8 @@
         <!-- Here is the close of top section of the Projects sections -->
             <!-- Top Two Projects added here  -->
             <div class="w-full grid gap-3 sm:grid-cols-12 mt-4">
-                <div class="sm:col-span-8 sm:h-[80vh] h-fit rounded-xl overflow-hidden group duration-300 ">
-                    <div class="sm:h-[60vh] w-full rounded-lg overflow-hidden group-hover:shadow-2xl group-hover:shadow-orange-400/40 duration-500">
+                <div class="sm:col-span-8 sm:h-auto h-auto rounded-xl overflow-hidden group duration-300 ">
+                    <div class="sm:h-auto w-full rounded-lg overflow-hidden group-hover:shadow-2xl group-hover:shadow-orange-400/40 duration-500">
                         <img class="transition-all duration-500 group-hover:scale-110" src="https://melon.studio/app/img/Project-1.webp" alt="">
                     </div>
                     <div class="flex items-center justify-between p-3">
@@ -96,8 +101,8 @@
                         <!-- <i class="ri-global-line sm:p-5 p-3 border-[1px] border-white rounded-full text-2xl"></i> -->
                     </div>
                 </div>
-                <div class="sm:col-span-4 sm:h-[80vh] h-fit rounded-xl overflow-hidden group duration-300">
-                    <div class="sm:h-[60vh] w-full rounded-lg overflow-hidden group-hover:shadow-2xl group-hover:shadow-orange-400/40 duration-500">
+                <div class="sm:col-span-4 sm:h-auto h-auto rounded-xl overflow-hidden group duration-300">
+                    <div class="sm:h-auto w-full rounded-lg overflow-hidden group-hover:shadow-2xl group-hover:shadow-orange-400/40 duration-500">
                         <img class="transition-all duration-500 group-hover:scale-110" src="https://melon.studio/app/img/Project-2.webp" alt="">
                     </div>
                     <div class="flex items-center justify-between p-3">
@@ -217,6 +222,39 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js" integrity="sha512-onMTRKJBKz8M1TnqqDuGBlowlH0ohFzMXYRNebz+yOcc5TQr/zAKsthzhuv0hiyUKEiQEQXEynnXCvNTOk50dg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="scripts/gsappage.js"></script>
     <script src="scripts/scripts.js"></script>
+    <script>
+        const wordsArray = ["My","Projects"];
+
+// Function to display words one by one with a gap of 1 second
+function displayWords() {
+  let index = 0;
+  const intervalId = setInterval(() => {
+    if (index < wordsArray.length) {
+      document.getElementById('container').textContent = wordsArray[index];
+      index++;
+    } else {
+      clearInterval(intervalId);
+      loader()
+    }
+  }, 300); // 1000 milliseconds = 1 second
+}
+
+
+// Call the function to start displaying words
+displayWords()
+function loader(){
+  gsap.to('#loader',{
+  y:"-100%",
+  height:"50%",
+  // delay:5,
+  duration:1,
+  borderRadius:"50%",
+  opacity:0,
+  scale:1.2,
+  ease: "sine.out",
+})
+}
+    </script>
     <!-- scripts links end -->
 </body>
 </html>
