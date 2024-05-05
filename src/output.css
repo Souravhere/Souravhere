@@ -1409,6 +1409,10 @@ video {
     height: fit-content;
   }
 
+  .sm\:h-auto {
+    height: auto;
+  }
+
   .sm\:w-\[50\%\] {
     width: 50%;
   }
@@ -1419,6 +1423,10 @@ video {
 
   .sm\:w-\[85\%\] {
     width: 85%;
+  }
+
+  .sm\:w-\[83\%\] {
+    width: 83%;
   }
 
   .sm\:grid-cols-12 {

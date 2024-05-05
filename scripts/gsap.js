@@ -116,7 +116,7 @@ abouttl.from('.word',{
 //     y:10,
 //     opacity:0,
 //     duration:1,
-//     stagger:0.1,
+//     stagger:0.1,2
 //     transform:" rotate(5deg)",
 //     ease: "expoScale(0.5,7,none)",
 // })
