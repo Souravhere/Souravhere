@@ -8,9 +8,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravhere&layout=pie&theme=radical&hide_border=true&bg_color=0D1117" align="right" width="38%" alt="Top Languages" /> -->
   
   <div align="left" width="55%">
-    <h3>Frontend Developer & UI/UX Specialist</h3>
+    <h3>Frontend Developer & UI/UX</h3>
     <p><i>Turning ideas into pixel-perfect experiences</i></p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC40&center=false&vCenter=true&width=435&lines=React+%26+Next.js+Expert;Tailwind+CSS+Wizard;Freelancer;Build+in+Public" alt="Skills Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC40&center=false&vCenter=true&width=435&lines=React+%26+Next.js;Tailwind+CSS;Freelancer;Build+in+Public" alt="Skills Typing SVG" />
     
     <h4>What I bring to your project:</h4>
 </div>
