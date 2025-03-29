@@ -11,8 +11,6 @@
     <h3>Frontend Developer & UI/UX</h3>
     <p><i>Turning ideas into pixel-perfect experiences</i></p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC40&center=false&vCenter=true&width=435&lines=React+%26+Next.js;Tailwind+CSS;Freelancer;Build+in+Public" alt="Skills Typing SVG" />
-    
-    <h4>What I bring to your project:</h4>
 </div>
 <!--
 <div align="center">
@@ -39,12 +37,8 @@
   
 </div>
 
-> Building stunning landing pages and custom tools for startups
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open_to_Work-Available-brightgreen?style=for-the-badge" alt="Open to Work"/>
-  <a href="https://twitter.com/souravchhimpa1"><img src="https://img.shields.io/badge/Twitter-@souravchhimpa1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</p>
+> Building stunning landing pages and custom tools for startups
 
 ## Tech Stack
 ```javascript
@@ -69,11 +63,32 @@ const techStack = {
 
 ## Let's Connect
 <div align="center">
-  <a href="mailto:souravchhimpa1@gmail.com">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+  <!-- Email -->
+  <a href="mailto:souravchhimpa1@gmail.com" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/sourav-chhimpa">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/sourav-chhimpa" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <!-- Twitter/X -->
+  <a href="https://twitter.com/souravchhimpa1" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
+  </a>
+  <!-- Website -->
+  <a href="https://yourdomain.com" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/>
+  </a>
+</div>
+
+<br>
+
+<!-- Custom Hire Me button with animation -->
+<div align="center">
+  <a href="https://calendly.com/sourav-chhimpa/30min">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=250&height=50&lines=✨+HIRE+ME+✨;🚀+Let's+Build+Together;💡+Got+a+Project%3F;🔥+Available+Now" alt="Hire Me" />
+    <br>
+    <img src="https://img.shields.io/badge/-%F0%9F%93%85_SCHEDULE_A_CALL_WITH_ME-%23FF6B6B?style=for-the-badge&labelColor=black" alt="Schedule Call" />
   </a>
 </div>
 
