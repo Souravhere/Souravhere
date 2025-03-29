@@ -1,6 +1,10 @@
-# 👋 Hi, I'm Sourav Chhimpa
+# 🤙 Sourav Chhimpa
 
-> Frontend Developer & Freelancer crafting stunning landing pages and custom tools for startups
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2ECC40&center=true&vCenter=true&width=435&lines=Frontend+Developer;Freelancer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+</div>
+
+> Building stunning landing pages and custom tools for startups
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open_to_Work-Available-brightgreen?style=for-the-badge" alt="Open to Work"/>
@@ -8,7 +12,7 @@
 </p>
 
 ## 🚀 Tech Stack
-```js
+```javascript
 const techStack = {
   frontend: ['React', 'Next.js', 'JavaScript'],
   styling: ['Tailwind CSS', 'Framer Motion'],
@@ -18,14 +22,12 @@ const techStack = {
 ```
 
 ## 📊 My Contribution Garden
-<!-- This visualization represents my GitHub activity in a 3D grid similar to the image -->
-<p align="center">
-  <img src="https://github.com/souravch/souravch/blob/main/assets/github-contributions-3d.svg" alt="GitHub Contributions" width="100%"/>
-</p>
-
-> Each green block represents my daily commits - the taller the tower, the more active the day!
-> 
-> *Visualization powered by [GitHub Contribution Graph Generator](https://github.com/Platane/snk)*
+<div align="center">
+  
+  ![Snake animation](https://github.com/{YourUsername}/{YourUsername}/blob/output/github-contribution-grid-snake.svg)
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username={YourUsername}&theme=github-compact&hide_border=true&area=true" width="100%">
+</div>
 
 ## ✨ What I Do
 - 🎨 Design & develop responsive landing pages
@@ -33,10 +35,28 @@ const techStack = {
 - 💼 Freelance projects with quick turnaround
 - 🔄 Convert Figma designs to pixel-perfect websites
 
-## 🤝 Let's Connect
-Looking for a frontend developer to bring your vision to life? Let's talk!
+## ⚡ Current Project
+```
+> Building the next generation of web experiences,
+> One pixel-perfect site at a time.
+```
 
-<p align="center">
-  <a href="mailto:contact@souravch.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/souravch"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+## 🤝 Let's Connect
+<div align="center">
+  <a href="mailto:contact@souravch.com">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+  </a>
+  <a href="https://linkedin.com/in/{YourLinkedInUsername}">
+    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  </a>
+</div>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username={YourUsername}&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username={YourUsername}&color=green" alt="Profile Views" />
+  Thanks for visiting! 🚀
+</div>
