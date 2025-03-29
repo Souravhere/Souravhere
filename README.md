@@ -88,4 +88,4 @@ const techStack = {
 </div> -->
 
 <!-- Animated separator -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" />r
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" />
