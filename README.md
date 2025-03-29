@@ -24,7 +24,7 @@ const techStack = {
 ## 📊 My Contribution Garden
 <div align="center">
   
-  ![Snake animation](https://github.com/{YourUsername}/{YourUsername}/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/souravhere/souravhere/blob/output/github-contribution-grid-snake.svg)
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username={YourUsername}&theme=github-compact&hide_border=true&area=true" width="100%">
 </div>
