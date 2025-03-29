@@ -4,8 +4,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,32&height=300&section=header&text=Hi,%20I'm%20Sourav%20👋&desc=Your%20Next%20Project%20Partner&fontSize=60&fontAlignY=40&descAlignY=60&descSize=22&animation=twinkling&fontColor=FFFFFF" width="100%" alt="Sourav Chhimpa" />
   </a>
   
-  <!-- Skill showcase with animated bar -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravhere&layout=pie&theme=radical&hide_border=true&bg_color=0D1117" align="right" width="38%" alt="Top Languages" />
+  <!-- Skill showcase with animated bar 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravhere&layout=pie&theme=radical&hide_border=true&bg_color=0D1117" align="right" width="38%" alt="Top Languages" /> -->
   
   <div align="left" width="55%">
     <h3>Frontend Developer & UI/UX Specialist</h3>
@@ -13,18 +13,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC40&center=false&vCenter=true&width=435&lines=React+%26+Next.js+Expert;Tailwind+CSS+Wizard;Freelancer;Building+in+Public" alt="Skills Typing SVG" />
     
     <h4>What I bring to your project:</h4>
-  
-  <!-- Animated separator -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" />
-  
-  <!-- Call to action section -->
-  <h3>Let's Create Something Amazing Together ✨</h3>
-  <a href="https://twitter.com/souravchhimpa1">
-    <img src="https://img.shields.io/badge/Twitter-@souravchhimpa1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Contact_Me-For_Your_Next_Project-FF4500?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
-  </a>
 </div>
 <!--
 <div align="center">
@@ -49,14 +37,6 @@
   </picture>
   -->
   
-  <!-- Dynamic activity metrics -->
-  <a href="https://twitter.com/souravchhimpa1">
-    <img src="https://img.shields.io/twitter/follow/souravchhimpa1?style=social" alt="Twitter" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/YourUsername">
-    <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=2ECC40&style=flat" alt="Profile views" />
-  </a>
 </div>
 
 > Building stunning landing pages and custom tools for startups
@@ -78,9 +58,6 @@ const techStack = {
 
 ## My Contribution Garden
 <div align="center">
-  
-  
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Souravhere&theme=github-compact&hide_border=true&area=true" width="100%">
 </div>
 
@@ -89,12 +66,6 @@ const techStack = {
 - 🛠️ Build custom tools for startups
 - 💼 Freelance projects with quick turnaround
 - 🔄 Convert Figma designs to pixel-perfect websites
-
-## ⚡ Current Project
-```
-> Building the next generation of web experiences,
-> One pixel-perfect site at a time.
-```
 
 ## Let's Connect
 <div align="center">
@@ -115,3 +86,6 @@ const techStack = {
   <img src="https://komarev.com/ghpvc/?username=Souravhere&color=green" alt="Profile Views" />
   Thanks for visiting! 🚀
 </div> -->
+
+<!-- Animated separator -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" />r
