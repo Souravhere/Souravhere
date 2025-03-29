@@ -4,6 +4,90 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2ECC40&center=true&vCenter=true&width=435&lines=Frontend+Developer;Freelancer;UI%2FUX;Build+In+Public" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <!-- Animated 3D header with personalized message -->
+  <a href="https://github.com/YourUsername">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,32&height=300&section=header&text=Hi,%20I'm%20Sourav%20👋&desc=Your%20Next%20Project%20Partner&fontSize=60&fontAlignY=40&descAlignY=60&descSize=22&animation=twinkling&fontColor=FFFFFF" width="100%" alt="Sourav Chhimpa" />
+  </a>
+  
+  <!-- Skill showcase with animated bar -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=pie&theme=radical&hide_border=true&bg_color=0D1117" align="right" width="38%" alt="Top Languages" />
+  
+  <div align="left" width="55%">
+    <h3>Frontend Developer & UI/UX Specialist</h3>
+    <p><i>Turning ideas into pixel-perfect experiences ✨</i></p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC40&center=false&vCenter=true&width=435&lines=React+%26+Next.js+Expert;Tailwind+CSS+Wizard;Freelancer;Building+in+Public" alt="Skills Typing SVG" />
+    
+    <h4>What I bring to your project:</h4>
+    
+   <!-- Skills progress bars -->
+   <div style="display: flex; align-items: center;">
+     <span style="width: 170px;">⚡ React/Next.js</span>
+     <img src="https://progress-bar.dev/95/?width=120" alt="React Skill" />
+   </div>
+   <div style="display: flex; align-items: center;">
+     <span style="width: 170px;">🎨 UI/UX Design</span>
+     <img src="https://progress-bar.dev/90/?width=120" alt="UI/UX Skill" />
+   </div>
+   <div style="display: flex; align-items: center;">
+     <span style="width: 170px;">💨 Tailwind CSS</span>
+     <img src="https://progress-bar.dev/98/?width=120" alt="Tailwind Skill" />
+   </div>
+   <div style="display: flex; align-items: center;">
+     <span style="width: 170px;">📱 Responsive Design</span>
+     <img src="https://progress-bar.dev/96/?width=120" alt="Responsive Design Skill" />
+   </div>
+   <div style="display: flex; align-items: center;">
+     <span style="width: 170px;">🔄 Node.js</span>
+     <img src="https://progress-bar.dev/85/?width=120" alt="Node.js Skill" />
+   </div>
+  </div>
+  
+  <!-- Animated separator -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" />
+  
+  <!-- Call to action section -->
+  <h3>Let's Create Something Amazing Together ✨</h3>
+  <a href="https://twitter.com/souravchhimpa1">
+    <img src="https://img.shields.io/badge/Twitter-@souravchhimpa1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Contact_Me-For_Your_Next_Project-FF4500?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
+  </a>
+</div>
+<!--
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <strong>Sourav Chhimpa</strong><br>
+        <sub>👨‍💻 Frontend Developer • 🎨 UI/UX</sub><br>
+        <sub>🚀 Building in Public • 💼 Freelancer</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,tailwind,figma&theme=light" alt="Skills" /><br>
+        <img src="https://img.shields.io/badge/Available_for_Work-2ECC40?style=for-the-badge&logo=googlechat&logoColor=white" alt="Available" />
+      </td>
+    </tr>
+  </table> 
+  
+  <!-- Animated banner with wave effect 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&customColorList=24&section=header&text=Building%20Digital%20Experiences&fontSize=24&fontColor=fff&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&customColorList=24&section=header&text=Building%20Digital%20Experiences&fontSize=24&fontColor=000&animation=fadeIn" width="100%" alt="Banner">
+  </picture>
+  -->
+  
+  <!-- Dynamic activity metrics -->
+  <a href="https://twitter.com/souravchhimpa1">
+    <img src="https://img.shields.io/twitter/follow/souravchhimpa1?style=social" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/YourUsername">
+    <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=2ECC40&style=flat" alt="Profile views" />
+  </a>
+</div>
+
 > Building stunning landing pages and custom tools for startups
 
 <p align="center">
