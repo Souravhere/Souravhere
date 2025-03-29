@@ -1,9 +1,3 @@
-# 🤙 Sourav Chhimpa
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2ECC40&center=true&vCenter=true&width=435&lines=Frontend+Developer;Freelancer;UI%2FUX;Build+In+Public" alt="Typing SVG" />
-</div>
-
 <div align="center">
   <!-- Animated 3D header with personalized message -->
   <a href="https://github.com/YourUsername">
@@ -11,7 +5,7 @@
   </a>
   
   <!-- Skill showcase with animated bar -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=pie&theme=radical&hide_border=true&bg_color=0D1117" align="right" width="38%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravhere&layout=pie&theme=radical&hide_border=true&bg_color=0D1117" align="right" width="38%" alt="Top Languages" />
   
   <div align="left" width="55%">
     <h3>Frontend Developer & UI/UX Specialist</h3>
@@ -19,29 +13,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC40&center=false&vCenter=true&width=435&lines=React+%26+Next.js+Expert;Tailwind+CSS+Wizard;Freelancer;Building+in+Public" alt="Skills Typing SVG" />
     
     <h4>What I bring to your project:</h4>
-    
-   <!-- Skills progress bars -->
-   <div style="display: flex; align-items: center;">
-     <span style="width: 170px;">⚡ React/Next.js</span>
-     <img src="https://progress-bar.dev/95/?width=120" alt="React Skill" />
-   </div>
-   <div style="display: flex; align-items: center;">
-     <span style="width: 170px;">🎨 UI/UX Design</span>
-     <img src="https://progress-bar.dev/90/?width=120" alt="UI/UX Skill" />
-   </div>
-   <div style="display: flex; align-items: center;">
-     <span style="width: 170px;">💨 Tailwind CSS</span>
-     <img src="https://progress-bar.dev/98/?width=120" alt="Tailwind Skill" />
-   </div>
-   <div style="display: flex; align-items: center;">
-     <span style="width: 170px;">📱 Responsive Design</span>
-     <img src="https://progress-bar.dev/96/?width=120" alt="Responsive Design Skill" />
-   </div>
-   <div style="display: flex; align-items: center;">
-     <span style="width: 170px;">🔄 Node.js</span>
-     <img src="https://progress-bar.dev/85/?width=120" alt="Node.js Skill" />
-   </div>
-  </div>
   
   <!-- Animated separator -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" />
