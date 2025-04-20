@@ -49,12 +49,12 @@ const techStack = {
   design: ['Figma']
 }
 ```
-
+<!--  
 ## My Contribution Garden
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Souravhere&theme=github-compact&hide_border=true&area=true" width="100%">
 </div>
-
+-->
 ## What I Do
 - 🎨 Design & develop responsive landing pages
 - 🛠️ Build custom tools for startups
