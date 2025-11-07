@@ -28,10 +28,10 @@ const techStack = {
 }
 ```
 ## What I Do
-- 🎨 Design & develop responsive landing pages
-- 🛠️ Build custom tools for startups
-- 💼 Freelance projects with quick turnaround
-- 🔄 Convert Figma designs to pixel-perfect websites
+- Design & develop responsive landing pages
+- Build custom tools for startups
+- Freelance projects with quick turnaround
+- Convert Figma designs to pixel-perfect websites
 
 ## Let's Connect
 <div align="center">
@@ -48,7 +48,7 @@ const techStack = {
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
   </a>
   <!-- Website -->
-  <a href="https://www.thenextlabs.com" style="text-decoration:none">
+  <a href="https://sourav.thenextlabs.com" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/>
   </a>
 </div>
@@ -76,4 +76,5 @@ const techStack = {
 
 <!-- Animated separator -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" />
+
 
