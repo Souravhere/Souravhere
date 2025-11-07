@@ -12,28 +12,6 @@
    <!-- <p><i>Turning ideas into pixel-perfect experiences</i></p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC40&center=false&vCenter=true&width=435&lines=React+%26+Next.js;Tailwind+CSS;Freelancer;Build+in+Public" alt="Skills Typing SVG" /> -->
 </div>
-<!--
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <strong>Sourav Chhimpa</strong><br>
-        <sub>👨‍💻 Frontend Developer • 🎨 UI/UX</sub><br>
-        <sub>🚀 Building in Public • 💼 Freelancer</sub>
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,tailwind,figma&theme=light" alt="Skills" /><br>
-        <img src="https://img.shields.io/badge/Available_for_Work-2ECC40?style=for-the-badge&logo=googlechat&logoColor=white" alt="Available" />
-      </td>
-    </tr>
-  </table> 
-  
-  <!-- Animated banner with wave effect 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&customColorList=24&section=header&text=Building%20Digital%20Experiences&fontSize=24&fontColor=fff&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&customColorList=24&section=header&text=Building%20Digital%20Experiences&fontSize=24&fontColor=000&animation=fadeIn" width="100%" alt="Banner">
-  </picture>
-  -->
   
 </div>
 
@@ -49,12 +27,6 @@ const techStack = {
   design: ['Figma']
 }
 ```
-<!--  
-## My Contribution Garden
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Souravhere&theme=github-compact&hide_border=true&area=true" width="100%">
-</div>
--->
 ## What I Do
 - 🎨 Design & develop responsive landing pages
 - 🛠️ Build custom tools for startups
@@ -104,3 +76,4 @@ const techStack = {
 
 <!-- Animated separator -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" />
+
