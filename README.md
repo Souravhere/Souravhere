@@ -48,7 +48,7 @@ const techStack = {
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
   </a>
   <!-- Website -->
-  <a href="https://sourav.thenextlabs.com" style="text-decoration:none">
+  <a href="https://www.souravchhimpa.com/" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/>
   </a>
 </div>
@@ -57,7 +57,7 @@ const techStack = {
 
 <!-- Custom Hire Me button with animation -->
 <div align="center">
-  <a href="https://www.thenextlabs.com/25">
+  <a href="https://www.souravchhimpa.com/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=250&height=50&lines=+HIRE+ME+;+Let's+Build+Together;💡+Got+a+Project%3F;🔥+Available+Now" alt="Hire Me" />
     <br>
     <img src="https://img.shields.io/badge/-%F0%9F%93%85_SCHEDULE_A_CALL_WITH_ME-%23FF6B6B?style=for-the-badge&labelColor=black" alt="Schedule Call" />
