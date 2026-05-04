@@ -1,80 +1,60 @@
 <div align="center">
-  <!-- Animated 3D header with personalized message -->
-  <a href="https://github.com/Souravhere">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,27,32&height=300&section=header&text=Hi,%20I'm%20Sourav%20👋&desc=Your%20Next%20Project%20Partner&fontSize=60&fontAlignY=40&descAlignY=60&descSize=22&fontColor=FFFFFF" width="100%" alt="Sourav Chhimpa" />
+  <br /><br />
+  
+  <a href="https://www.souravchhimpa.com">
+    <img src="https://www.souravchhimpa.com/tab.png" width="48" style="border-radius: 12px;" alt="Sourav Chhimpa Logo" />
   </a>
   
-  <!-- Skill showcase with animated bar 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravhere&layout=pie&theme=radical&hide_border=true&bg_color=0D1117" align="right" width="38%" alt="Top Languages" /> -->
+  <br /><br />
+
+  <h2 style="border-bottom: none;">Sourav Chhimpa</h2>
+  <p><b>Web3 MVP Developer & UI/UX Architect</b></p>
   
-  <div align="left" width="55%">
-    <h3>Frontend Developer & UI/UX</h3>
-   <!-- <p><i>Turning ideas into pixel-perfect experiences</i></p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC40&center=false&vCenter=true&width=435&lines=React+%26+Next.js;Tailwind+CSS;Freelancer;Build+in+Public" alt="Skills Typing SVG" /> -->
+  <br />
+
+  <p style="font-size: 15px; font-style: italic;">
+    Building premium SaaS platforms, Token ecosystems, and Reward systems.<br />
+    Going from 0 to 1 with robust architectures and stunning frontends.
+  </p>
+
+  <br /><br />
+
+  <!-- Advanced Minimalist CTA Button -->
+  <a href="https://www.souravchhimpa.com/book">
+    <img src="https://www.souravchhimpa.com/api/github-button" width="300" alt="Talk to Sourav" />
+  </a>
+
+  <br /><br /><br />
+
+  <hr style="width: 250px; height: 1px; background-color: #E2E8F0; border: none;" />
+
+  <br />
+
+  <!-- Premium Quick Links -->
+  <p>
+    <a href="https://www.souravchhimpa.com/projects" style="text-decoration:none;"><b>PROJECTS</b></a> 
+    &nbsp;&nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.souravchhimpa.com/about" style="text-decoration:none;"><b>ABOUT</b></a> 
+    &nbsp;&nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.souravchhimpa.com/glossary" style="text-decoration:none;"><b>GLOSSARY</b></a>
+  </p>
+
+  <br />
+
+  <!-- High-Value Core Stack -->
+  <p style="font-family: monospace; font-size: 13px; color: #64748B;">
+    Next.js • React • TypeScript • Tailwind CSS • Framer Motion<br />
+    Solidity • Ethers.js • Wagmi • Supabase • PostgreSQL
+  </p>
+
+  <br />
+
+  <!-- Socials -->
+  <p>
+    <a href="https://twitter.com/souravchhimpa1" style="text-decoration:none; color: #64748B;">X (Twitter)</a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/sourav-chhimpa" style="text-decoration:none; color: #64748B;">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:souravchhimpa1@gmail.com" style="text-decoration:none; color: #64748B;">Email</a>
+  </p>
+
+  <br /><br />
 </div>
-  
-</div>
-
-
-> Building stunning landing pages and custom tools for startups
-
-## Tech Stack
-```javascript
-const techStack = {
-  frontend: ['React', 'Next.js', 'JavaScript'],
-  styling: ['Tailwind CSS', 'Framer Motion'],
-  backend: ['Node.js'],
-  design: ['Figma']
-}
-```
-## What I Do
-- Design & develop responsive landing pages
-- Build custom tools for startups
-- Freelance projects with quick turnaround
-- Convert Figma designs to pixel-perfect websites
-
-## Let's Connect
-<div align="center">
-  <!-- Email -->
-  <a href="mailto:souravchhimpa1@gmail.com" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/sourav-chhimpa" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <!-- Twitter/X -->
-  <a href="https://twitter.com/souravchhimpa1" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
-  </a>
-  <!-- Website -->
-  <a href="https://www.souravchhimpa.com/" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/>
-  </a>
-</div>
-
-<br>
-
-<!-- Custom Hire Me button with animation -->
-<div align="center">
-  <a href="https://www.souravchhimpa.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=250&height=50&lines=+HIRE+ME+;+Let's+Build+Together;💡+Got+a+Project%3F;🔥+Available+Now" alt="Hire Me" />
-    <br>
-    <img src="https://img.shields.io/badge/-%F0%9F%93%85_SCHEDULE_A_CALL_WITH_ME-%23FF6B6B?style=for-the-badge&labelColor=black" alt="Schedule Call" />
-  </a>
-</div>
-
-<!-- GitHub Stats 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Souravhere&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div> 
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Souravhere&color=green" alt="Profile Views" />
-  Thanks for visiting! 🚀
-</div> -->
-
-<!-- Animated separator -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="separator" />
-
-
