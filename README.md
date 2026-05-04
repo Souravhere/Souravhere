@@ -8,7 +8,7 @@
   <br /><br />
 
   <h2 style="border-bottom: none;">Sourav Chhimpa</h2>
-  <p><b>Web3 MVP Developer & UI/UX Architect</b></p>
+  <p><b>Web3 MVP Developer</b></p>
   
   <br />
 
@@ -35,15 +35,13 @@
     <a href="https://www.souravchhimpa.com/projects" style="text-decoration:none;"><b>PROJECTS</b></a> 
     &nbsp;&nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.souravchhimpa.com/about" style="text-decoration:none;"><b>ABOUT</b></a> 
-    &nbsp;&nbsp;&nbsp;&nbsp; ✦ &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.souravchhimpa.com/glossary" style="text-decoration:none;"><b>GLOSSARY</b></a>
   </p>
 
   <br />
 
   <!-- High-Value Core Stack -->
   <p style="font-family: monospace; font-size: 13px; color: #64748B;">
-    Next.js • React • TypeScript • Tailwind CSS • Framer Motion<br />
+    Next.js • React • TypeScript • Tailwind CSS • Motion<br />
     Solidity • Ethers.js • Wagmi • Supabase • PostgreSQL
   </p>
 
